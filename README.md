@@ -1,0 +1,1 @@
+A basic online shopping website built using HTML & CSS. This was a learning project completed with help from my instructor during my gap year. Features include product listings and basic layout styling.
