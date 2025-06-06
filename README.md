@@ -3,4 +3,3 @@ Camo is a beginner e-commerce website built using HTML and CSS. It features a ho
  **Live Preview:**  
 [Click here to view](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Vheronica1006/Camo/main/index.html#
 
-📸 **Preview Screenshot:**  
